@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\gamblingDLL\gamblingDLL\bin\Debug\gamblingDLL.dll
+C:\Users\user\Desktop\gamblingDLL\gamblingDLL\bin\Debug\gamblingDLL.pdb
+C:\Users\user\Desktop\gamblingDLL\gamblingDLL\obj\Debug\gamblingDLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\gamblingDLL\gamblingDLL\obj\Debug\gamblingDLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\gamblingDLL\gamblingDLL\obj\Debug\gamblingDLL.dll
+C:\Users\user\Desktop\gamblingDLL\gamblingDLL\obj\Debug\gamblingDLL.pdb

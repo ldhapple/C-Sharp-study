@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\bin\Debug\gugudanApp.exe.config
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\bin\Debug\gugudanApp.exe
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\bin\Debug\gugudanApp.pdb
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\bin\Debug\gugudanDLL.dll
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\bin\Debug\gugudanDLL.pdb
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.Form1.resources
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.Properties.Resources.resources
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.csproj.CopyComplete
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.exe
+C:\Users\user\Desktop\C# practice\gugudanApp\gugudanApp\obj\Debug\gugudanApp.pdb

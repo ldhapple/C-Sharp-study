@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollDieApp", "RollDieApp\RollDieApp.csproj", "{407DF808-76EC-4AA7-9207-9B8A01403343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{407DF808-76EC-4AA7-9207-9B8A01403343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407DF808-76EC-4AA7-9207-9B8A01403343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{407DF808-76EC-4AA7-9207-9B8A01403343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407DF808-76EC-4AA7-9207-9B8A01403343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986FFB55-3EAC-4A13-9176-C98324EC405D}
+	EndGlobalSection
+EndGlobal

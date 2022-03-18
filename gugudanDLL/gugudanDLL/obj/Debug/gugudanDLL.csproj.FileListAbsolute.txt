@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C# practice\gugudanDLL\gugudanDLL\bin\Debug\gugudanDLL.dll
+C:\Users\user\Desktop\C# practice\gugudanDLL\gugudanDLL\bin\Debug\gugudanDLL.pdb
+C:\Users\user\Desktop\C# practice\gugudanDLL\gugudanDLL\obj\Debug\gugudanDLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# practice\gugudanDLL\gugudanDLL\obj\Debug\gugudanDLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# practice\gugudanDLL\gugudanDLL\obj\Debug\gugudanDLL.dll
+C:\Users\user\Desktop\C# practice\gugudanDLL\gugudanDLL\obj\Debug\gugudanDLL.pdb

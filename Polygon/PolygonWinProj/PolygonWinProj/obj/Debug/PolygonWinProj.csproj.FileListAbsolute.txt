@@ -1,0 +1,39 @@
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.Form1.resources
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.Properties.Resources.resources
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.exe.config
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.exe
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.pdb
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonDLL.dll
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonDLL.pdb
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.CopyComplete
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.exe
+C:\Users\user\Desktop\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.pdb
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.exe.config
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.exe
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.pdb
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonDLL.dll
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonDLL.pdb
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.Form1.resources
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.Properties.Resources.resources
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.CopyComplete
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.exe
+C:\Users\user\Desktop\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.pdb
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.exe.config
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.exe
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonWinProj.pdb
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonDLL.dll
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\bin\Debug\PolygonDLL.pdb
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csprojAssemblyReference.cache
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.Form1.resources
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.Properties.Resources.resources
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.GenerateResource.cache
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.CoreCompileInputs.cache
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.csproj.CopyComplete
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.exe
+D:\Download\C# practice\Polygon\PolygonWinProj\PolygonWinProj\obj\Debug\PolygonWinProj.pdb

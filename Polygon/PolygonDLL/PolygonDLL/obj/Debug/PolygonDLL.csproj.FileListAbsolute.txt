@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Polygon\PolygonDLL\PolygonDLL\obj\Debug\PolygonDLL.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Polygon\PolygonDLL\PolygonDLL\obj\Debug\PolygonDLL.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Polygon\PolygonDLL\PolygonDLL\bin\Debug\PolygonDLL.dll
+C:\Users\user\Desktop\Polygon\PolygonDLL\PolygonDLL\bin\Debug\PolygonDLL.pdb
+C:\Users\user\Desktop\Polygon\PolygonDLL\PolygonDLL\obj\Debug\PolygonDLL.dll
+C:\Users\user\Desktop\Polygon\PolygonDLL\PolygonDLL\obj\Debug\PolygonDLL.pdb
